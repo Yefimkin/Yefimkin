@@ -13,8 +13,6 @@
 <p align="left">
 <a href="https://codepen.io/@legolasio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@legolasio" height="30" width="40" /></a>
 <a href="https://twitter.com/legolasio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="legolasio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yefimkin-denys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yefimkin-denys" height="30" width="40" /></a>
-<a href="https://fb.com/legolasio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="legolasio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
